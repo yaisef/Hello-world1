@@ -1,2 +1,7 @@
 # Hello-world1
-New Hello world
+
+
+Hello
+
+This is my second hello world attempt on git 
+
